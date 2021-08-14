@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Dongle)(type Legacy)(uri "C:/Users/andre/Documents/GitHub/DigiMesh Dongle/kicad/libraries/library/Dongle.lib")(options "")(descr ""))
+)
